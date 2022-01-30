@@ -82,8 +82,8 @@ margin:0 30px;
 }
 
 .tenth{
-    width: 800px;
-    height: 50px;
+    width: 50%;
+    height: 5%;
     border-style: solid;
     border-color: turquoise;
     border-width: 1px 1px;
@@ -93,8 +93,8 @@ margin:0 30px;
     
     text-align:center;
     top:50%;
-    margin-top: 50px;
-    margin-left: 350px;
+    margin-top: 5%;
+    margin-left: 25%;
 }
 
 .tenth h4{
@@ -103,8 +103,8 @@ margin:0 30px;
 }
 
 .twelfth{
-    width: 1000px;
-    height: 50px;
+    width: 65%;
+    height: 5%;
     border-style: solid;
     border-color: turquoise;
     border-width: 1px 1px;
@@ -114,8 +114,8 @@ margin:0 30px;
     
     text-align:center;
     top:50%;
-    margin-top: 50px;
-    margin-left: 250px;
+    margin-top: 5%;
+    margin-left: 17%;
 }
 
 .twelfth h4{
@@ -124,8 +124,8 @@ margin:0 30px;
 }
 
 .college{
-    width: 800px;
-    height: 50px;
+    width: 50%;
+    height: 5%;
     border-style: solid;
     border-color: turquoise;
     border-width: 1px 1px;
@@ -135,8 +135,8 @@ margin:0 30px;
     
     text-align:center;
     top:50%;
-    margin-top: 50px;
-    margin-left: 350px;
+    margin-top: 5%;
+    margin-left: 25%;
 }
 
 .college h4{
